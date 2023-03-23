@@ -37,7 +37,6 @@ layout: home
 ```
 没有注意缺少哪一部分信息造成了以上的问题，我主要对以下的这些信息进行了配置
 ```
-lang: zh-CN
 timezone: Asia/Shanghai
 url: "https://lhbvvvvv.github.io"
 github:
