@@ -5,9 +5,9 @@ categories: [工具, blog]
 tags: [blog]     # TAG names should always be lowercase
 
 
-author:  # 不写默认就是自己
+<!-- author:  # 不写默认就是自己
   name: lhb
-  link: https://github.com/lhbvvvvv
+  link: https://github.com/lhbvvvvv -->
 
 # # 以下默认false
 math: true
