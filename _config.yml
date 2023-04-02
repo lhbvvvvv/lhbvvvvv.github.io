@@ -18,7 +18,7 @@ timezone: Asia/Shanghai
 # jekyll-seo-tag settings › https://github.com/jekyll/jekyll-seo-tag/blob/master/docs/usage.md
 # ↓ --------------------------
 
-title: lhb's Blog # the main title
+title: lhb's Blog 
 
 tagline: A common blog. # it will display as the sub-title
 
