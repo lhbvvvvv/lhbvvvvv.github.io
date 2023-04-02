@@ -20,7 +20,7 @@ timezone: Asia/Shanghai
 
 title: lhb's Blog 
 
-tagline: A common blog. # it will display as the sub-title
+tagline: Go get some fries on the pier. # it will display as the sub-title
 
 description: >- # used by seo meta and the atom feed
   A minimal, responsive and feature-rich Jekyll theme for technical writing.
